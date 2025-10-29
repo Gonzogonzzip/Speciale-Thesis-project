@@ -2,7 +2,7 @@
 Aalborg Universitet, Social Data Science, 2025
 
 This repository is a rough and perhaps too casual introduction to my master's thesis. This README and repository are in English for ease of access and communication, but the thesis itself, as well as the appendix material, is all in Danish.
-The repository should contain the thesis paper itself, the two Python notebooks, as well as the appendix material, which is mostly graphs and figures from the various tests.
+The repository should contain the thesis paper itself, the three Python notebooks, as well as the appendix material, which is mostly graphs and figures from the various tests.
 
 A few caveats:
 1) I have not included the data from 'Tryghedsmålingen 2024' in this repository, only what is described above. If you want access to the data, contact Tryghedsgruppen/Trygfonden.
@@ -15,3 +15,11 @@ So I was curious if these same strengths and issues existed in the newer models,
 The answer is somewhat complicated, as these three variables are heavily intertwined, but put simply:
 The models struggled to capture the median in the way they had in prior research, likely due to the use of Danish data.
 The variance issue persists, especially in newer models, maximum temperature is insufficient to fix it, and prompting is trial-and-error and difficult to predict.
+
+Appendix overview:
+- #1-3 are the notebooks.
+- #4 is the old prompt.
+- #5 is my raw result logs (may be some old mis-noted results, anything in the paper itself is triple-checked).
+- #6-19 are graphs and figures from the tests.
+
+I also have the batch files for all the same tests as appendix 6-19. Feel free to contact me if you want copies!
