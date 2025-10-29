@@ -5,8 +5,8 @@ This repository is a rough and perhaps too casual introduction to my master's th
 The repository should contain the thesis paper itself, the two Python notebooks, as well as the appendix material, which is mostly graphs and figures from the various tests.
 
 A few caveats:
-0) I have not included the data from 'Tryghedsmålingen 2024' in this repository, only what is described above. If you want access to the data, contact Tryghedsgruppen/Trygfonden.
-1) The Python notebooks are a mess and are basically just left in the state they were in when I finished the thesis, so code is pretty unkempt and full of temporary-fix solutions.
+1) I have not included the data from 'Tryghedsmålingen 2024' in this repository, only what is described above. If you want access to the data, contact Tryghedsgruppen/Trygfonden.
+2) The Python notebooks are a mess and are basically just left in the state they were in when I finished the thesis, so code is pretty unkempt and full of temporary-fix solutions.
 
 (somewhat) Quick pitch:
 Can LLMs fill out surveys? The answer is yes, but there are certain flaws that crop up. The models were, in many cases, good at estimating the median of the human population they were mimicking, but lacked the human variance.
